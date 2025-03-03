@@ -1,3 +1,3 @@
-def call(String url, String branch){
+def call(){
     sh "echo 'welcome'"
 }
